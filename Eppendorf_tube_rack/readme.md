@@ -2,7 +2,7 @@
 
 Features:
 - This design is for an Eppendorf tube rack with 8 tube slots. 
-- The tube holder portion can be rotated at 45 degree angles for easier access. 
+- The tube holder portion can be rotated at 60 degree angles for easier access. 
 - The design includes FDM and SLA printed parts, see which is which in the filenames.
 - Tubes can be locked with a bar, and PTFE tubes can be inserted in them through a 10-32 threaded port (for 1/16" flangeless fittings)
 - You will need size M3 bolts and nuts to build this design. Look at the BOM (bill of materials) section for more details. 
