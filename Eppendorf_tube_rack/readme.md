@@ -15,5 +15,11 @@ Features:
 - Bolts: 12 pcs. M3 x 20 (ISO 1207 or similar)
 - Nuts: 12 pcs. M3 (ISO 4305 or similar)
 - Note: using washers under the nuts is not necessary, but possible.  
+- 8 x EpiTubeRack_10-32port_SLA
+- 2 x EpiTubeRack_Stand_upper_FDM
+- 2 x EpiTubeRack_Stand_lower_FDM
+- 1 x EpiTubeRack_Holder_FDM
+- 1 x EpiTubeRack_TopClamp_FDM 
+- 1 x EpiTubeRack_Foundation_FDM
 
 ![Assembly_1](https://user-images.githubusercontent.com/88547337/130583195-e2bb8722-4bb5-412e-ad9a-b2eb15fc69c9.JPG)
