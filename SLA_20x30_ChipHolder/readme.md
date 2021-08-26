@@ -11,4 +11,4 @@ However, with a good FDM printer such as a Prusa i3 MK3S, it may also be possibl
 - Nuts: 2 pcs. M3 (ISO 4305 or similar)
 - Washers: 2 pcs. M3 (ISO 7089 or similar)
 
-![Assembly](https://user-images.githubusercontent.com/88547337/131033995-2d7a2e33-e9d9-4f84-9cfc-83e0633f91fa.JPG)
+![Assembly](https://user-images.githubusercontent.com/88547337/131035775-ca0d1226-3e95-4ef5-b811-151532ebed88.JPG)
